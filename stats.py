@@ -5,6 +5,7 @@ import time
 import sys
 import argparse
 import re
+import re
 
 # Parse cmd arguments
 parser = argparse.ArgumentParser(description = 'Python Assignment for Encode Group')
